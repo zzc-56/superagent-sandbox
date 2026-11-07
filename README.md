@@ -1,2 +1,2 @@
 # superagent-sandbox
-dsh-superagent sandbox; throwaway.
+dsh-superagent sandbox; throwaway
